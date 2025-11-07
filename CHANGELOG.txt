@@ -1,0 +1,39 @@
+# CHANGELOG
+
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - [2025-04-16]
+
+### Added
+* Added disco! 🎉
+* Added the names of private message recipients.
+
+### Fixed
+* Fixed a bug where you could interfere with the messaging app when you were supposed to type the username you wanted to send private messages to, causing visual issues.
+* Fixed a bug where you could send private messages to invalid usernames.
+
+### Removed
+* Removed client-side printing in the console.
+
+## [0.4.0] - [2025-04-08]
+
+### Modified
+* Adjusted the message time feature. You will now see the time sent, not the time received.
+
+## [0.3.0] - [2025-03-31]
+
+### Modified
+* Redesigned user interface.
+
+### Fixed
+* Fixed visual issues when changing themes.
+
+## [0.2.0] - [2025-03-25]
+
+### Feature
+* Implementation of the first user interface
+
+## [0.1.0] - [2025-03-20]
+
+### Feature
+* Initial application features: Sending and Receiving via Python Console.
