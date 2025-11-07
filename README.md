@@ -1,48 +1,27 @@
-───────────────────────────── Project – LAN Messaging ─────────────────────────────
+# 💬 Project – LAN Messaging
 
-Description: LAN Messaging is a project that allows two machines connected to the same network to communicate with each other. 
-      This software, written in Python 3, relies on several essential modules (Tkinter, Socket, Functools, Colorsys, and Random) 
-      to provide a user-friendly interface and smooth communication.
+**LAN Messaging** is a Python 3 project that allows two machines connected to the same local network to communicate with each other.  
+It offers a lightweight, user-friendly messaging interface using core Python modules.
 
-───────────────────────────── Prerequisites:
+---
 
-Python 3.0 (or later)
+## 📘 Description
 
-Required modules: • Tkinter • Socket • Functools • Colorsys • Random
+LAN Messaging enables instant communication between two devices on the same LAN (Local Area Network).  
+The software is written entirely in **Python 3**, leveraging several built-in modules to ensure smooth functionality and a simple graphical interface.
 
-These modules are normally native to Python 3.0. You should not need to install them.
+**Main modules used:**
+- `Tkinter` — for the graphical interface  
+- `Socket` — for the network connection between machines  
+- `Functools` — for callback and function management  
+- `Colorsys` — for color conversions  
+- `Random` — for random color or theme generation  
 
-───────────────────────────── Installation:
+All of these modules are included natively with Python 3 — **no external installation is required**.
 
-Download or clone the “Messaging Project” folder.
+---
 
-Place it in the directory of your choice and verify that Python 3 is installed on your machine.
+## ⚙️ Prerequisites
 
-───────────────────────────── Running the program:
-
-Go to the main.py directory
-
-Run the file named “Server” to start the server and set the communication port.
-
-In another tab, run the “Client_Interface” file.
-
-When prompted, enter the port, the server's IP address, and the username you want to use to connect.
-
-Enjoy your messaging!
-
-───────────────────────────── Help: 
-
-If you encounter a bug or any other problem, please do not hesitate to contact us for assistance or to report the malfunction.
-
-───────────────────────────── Authors :
-
-COO : Tiki Bouglon 
-
-CTO : Vincent Marie 
-
-───────────────────────────── License – MIT License:
-
-This project is distributed under the MIT License.
-
-
-
+- **Python 3.0 or later** installed on your machine  
+- All required modules are standard in Python 3:
