@@ -34,7 +34,7 @@ Enjoy your messaging!
 
 If you encounter a bug or any other problem, please do not hesitate to contact us for assistance or to report the malfunction.
 
-───────────────────────────── Auteurs :
+───────────────────────────── Authors :
 
 COO : Tiki Bouglon 
 
@@ -43,5 +43,6 @@ CTO : Vincent Marie
 ───────────────────────────── License – MIT License:
 
 This project is distributed under the MIT License.
+
 
 
