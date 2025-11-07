@@ -30,7 +30,7 @@ All of these modules are included natively with Python 3 — **no external insta
 
 Download or clone this repository:
 
-  1- [https://github.com/UpsilonWolf/LAN-Messaging.git]
+  1- [git clone https://github.com/UpsilonWolf/LAN-Messaging.git]
 
   2- Place the folder “Messaging Project” (or lan-messaging) in the directory of your choice.
 
@@ -87,4 +87,5 @@ We hope you enjoy this lightweight and practical LAN communication tool.
 
 If you appreciate this project, please consider giving it a ⭐ on GitHub — your support helps us continue developing and improving it.
 Happy chatting! 🖤
+
 
